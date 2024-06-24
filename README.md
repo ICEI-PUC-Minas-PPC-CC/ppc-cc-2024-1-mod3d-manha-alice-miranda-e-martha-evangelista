@@ -1,7 +1,7 @@
-# TÍTULO DO PROJETO
+# ANIMAÇÃO 3D
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
+`Disciplina: MODELAGEM 3D`
 `2021 - Semestre 1`
 
 ## Integrantes
