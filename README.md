@@ -19,6 +19,10 @@ O tema escolhido pela dupla foi a animação 3D, utilizando o Rokoko porque ele 
 
 # Apresentação
 
-<li><a href="presentation/README.md"> Apresentação da solução</a></li>
+
+
+
+
+
 
 
