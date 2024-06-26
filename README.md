@@ -19,7 +19,10 @@ O tema escolhido pela dupla foi a animação 3D, utilizando o Rokoko porque ele 
 
 # Apresentação
 
+Video Rokoko
 https://youtu.be/Lv-6FDDU75o
+
+Video da animação no Blender
 https://youtu.be/u9wJO2OUJZw
 
 
